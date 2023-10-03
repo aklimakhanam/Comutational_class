@@ -1,0 +1,1 @@
+This reposoitory has two branches. The master branch has the directory CPClass/ which contains my project files. There are three python files. ODE.py and Integral.py are the modules containing all the functions and main.py clls the functions from those modules.
